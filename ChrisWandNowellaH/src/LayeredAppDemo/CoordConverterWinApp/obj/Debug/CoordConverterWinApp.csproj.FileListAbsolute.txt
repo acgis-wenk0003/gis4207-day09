@@ -1,0 +1,9 @@
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\bin\Debug\CoordConverterWinApp.exe.config
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\bin\Debug\CoordConverterWinApp.exe
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\bin\Debug\CoordConverterWinApp.pdb
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.csprojResolveAssemblyReference.cache
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.Properties.Resources.resources
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.csproj.GenerateResource.Cache
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.exe
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.pdb
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.MainForm.resources

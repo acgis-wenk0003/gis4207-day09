@@ -1,0 +1,6 @@
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterConsole\bin\Debug\CoordConverterConsole.exe.config
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterConsole\bin\Debug\CoordConverterConsole.exe
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterConsole\bin\Debug\CoordConverterConsole.pdb
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterConsole\obj\Debug\CoordConverterConsole.csprojResolveAssemblyReference.cache
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterConsole\obj\Debug\CoordConverterConsole.exe
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterConsole\obj\Debug\CoordConverterConsole.pdb

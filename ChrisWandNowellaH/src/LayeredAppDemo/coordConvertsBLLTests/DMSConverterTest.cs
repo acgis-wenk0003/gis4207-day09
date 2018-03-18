@@ -15,12 +15,30 @@ namespace coordConvertsBLLTests
             Coords.deg = 50;
             Coords.min = 11;
             Coords.sec = 11.1;
-            Coords.quadrant= 0;
+            Coords.quadrant = 0;
             DMSConverter target = new DMSConverter();
             string expected = "50.18642";
 
             //Act
-            string actual =Convert.ToString( target.Dms2Dd(Coords));
+            string actual = Convert.ToString(target.Dms2Dd(Coords));
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+        }
+        [TestMethod]
+        public void DMS2Dd_InvalidCoords_Calculated()
+        {
+            //Arrange
+            DMSCoord Coords = new DMSCoord();
+            Coords.deg = -360;
+            Coords.min = 11456;
+            Coords.sec = 11.1;
+            Coords.quadrant = 0;
+            DMSConverter target = new DMSConverter();
+            double expected = 9999;
+
+            //Act
+            string actual = Convert.ToString(target.Dms2Dd(Coords));
 
             //Assert
             Assert.AreEqual(expected, actual);
