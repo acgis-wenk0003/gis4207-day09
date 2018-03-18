@@ -18,6 +18,6 @@ namespace CoordConverterBLL
         public int deg;
         public int min;
         public double sec;
-        Quadrant quadrant;
+        public Quadrant quadrant;
     } 
 }

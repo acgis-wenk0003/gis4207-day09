@@ -1,0 +1,7 @@
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\obj\Debug\coordConvertsBLLTests.csprojResolveAssemblyReference.cache
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\bin\Debug\coordConvertsBLLTests.dll
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\bin\Debug\coordConvertsBLLTests.pdb
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\bin\Debug\CoordConverterBLL.dll
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\bin\Debug\CoordConverterBLL.pdb
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\obj\Debug\coordConvertsBLLTests.dll
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\coordConvertsBLLTests\obj\Debug\coordConvertsBLLTests.pdb

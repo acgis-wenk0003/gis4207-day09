@@ -1,0 +1,5 @@
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterBLL\bin\Debug\CoordConverterBLL.dll
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterBLL\bin\Debug\CoordConverterBLL.pdb
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterBLL\obj\Debug\CoordConverterBLL.csprojResolveAssemblyReference.cache
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterBLL\obj\Debug\CoordConverterBLL.dll
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterBLL\obj\Debug\CoordConverterBLL.pdb
