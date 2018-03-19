@@ -35,10 +35,11 @@
             this.Deg = new System.Windows.Forms.Label();
             this.Min = new System.Windows.Forms.Label();
             this.Sec = new System.Windows.Forms.Label();
-            this.quadrent = new System.Windows.Forms.Label();
+            this.quad = new System.Windows.Forms.Label();
             this.btnCalc = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
             this.Answer = new System.Windows.Forms.Label();
+            this.DecDegoutput = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // tbxDeg
@@ -61,6 +62,7 @@
             this.cboQuadrent.Name = "cboQuadrent";
             this.cboQuadrent.Size = new System.Drawing.Size(121, 24);
             this.cboQuadrent.TabIndex = 1;
+            this.cboQuadrent.SelectedIndexChanged += new System.EventHandler(this.cboQuadrent_SelectedIndexChanged);
             // 
             // tbxMin
             // 
@@ -76,6 +78,7 @@
             this.tbxSec.Name = "tbxSec";
             this.tbxSec.Size = new System.Drawing.Size(121, 22);
             this.tbxSec.TabIndex = 3;
+            this.tbxSec.TextChanged += new System.EventHandler(this.tbxSec_TextChanged);
             // 
             // Deg
             // 
@@ -105,14 +108,14 @@
             this.Sec.TabIndex = 6;
             this.Sec.Text = "Sec";
             // 
-            // quadrent
+            // quad
             // 
-            this.quadrent.AutoSize = true;
-            this.quadrent.Location = new System.Drawing.Point(129, 196);
-            this.quadrent.Name = "quadrent";
-            this.quadrent.Size = new System.Drawing.Size(68, 17);
-            this.quadrent.TabIndex = 7;
-            this.quadrent.Text = "Quadrent";
+            this.quad.AutoSize = true;
+            this.quad.Location = new System.Drawing.Point(129, 196);
+            this.quad.Name = "quad";
+            this.quad.Size = new System.Drawing.Size(68, 17);
+            this.quad.TabIndex = 7;
+            this.quad.Text = "Quadrent";
             // 
             // btnCalc
             // 
@@ -143,15 +146,24 @@
             this.Answer.TabIndex = 11;
             this.Answer.Text = "Dec. Deg:";
             // 
+            // DecDegoutput
+            // 
+            this.DecDegoutput.Location = new System.Drawing.Point(233, 281);
+            this.DecDegoutput.Name = "DecDegoutput";
+            this.DecDegoutput.Size = new System.Drawing.Size(121, 22);
+            this.DecDegoutput.TabIndex = 12;
+            this.DecDegoutput.TextChanged += new System.EventHandler(this.DecDegoutput_TextChanged);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(483, 409);
+            this.Controls.Add(this.DecDegoutput);
             this.Controls.Add(this.Answer);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnCalc);
-            this.Controls.Add(this.quadrent);
+            this.Controls.Add(this.quad);
             this.Controls.Add(this.Sec);
             this.Controls.Add(this.Min);
             this.Controls.Add(this.Deg);
@@ -175,10 +187,11 @@
         private System.Windows.Forms.Label Deg;
         private System.Windows.Forms.Label Min;
         private System.Windows.Forms.Label Sec;
-        private System.Windows.Forms.Label quadrent;
+        private System.Windows.Forms.Label quad;
         private System.Windows.Forms.Button btnCalc;
         private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.Label Answer;
+        private System.Windows.Forms.TextBox DecDegoutput;
     }
 }
 

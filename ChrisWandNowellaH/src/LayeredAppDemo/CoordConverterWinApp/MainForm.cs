@@ -31,7 +31,7 @@ namespace CoordConverterWinApp
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            int deg = int.TryParse(textBox1_TextChanged.Text);
+            
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -41,9 +41,30 @@ namespace CoordConverterWinApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            DMSConverter converter = new DMSConverter();
-            DMSCoord coords = new DMSCoord();
-            //coords.deg= textBoxDeg.Text;
+            
+            //int deg = int.Parse(textBox1_TextChanged.Text);
+            DMSCoord Coords = new DMSCoord();
+            Coords.deg = Convert.ToInt16(tbxDeg.Text);
+            Coords.min = Convert.ToInt16(tbxMin.Text);
+            Coords.sec = Convert.ToDouble(tbxSec.Text);
+            Coords.quadrant = 0;
+            DMSConverter target = new DMSConverter();
+            
+            DecDegoutput.Text = Convert.ToString(target.Dms2Dd(Coords));
+        }
+
+        private void cboQuadrent_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void DecDegoutput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbxSec_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

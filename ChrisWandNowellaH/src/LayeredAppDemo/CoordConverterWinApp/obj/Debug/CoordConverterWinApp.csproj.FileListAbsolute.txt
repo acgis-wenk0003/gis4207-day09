@@ -7,3 +7,5 @@ H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConvert
 H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.exe
 H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.pdb
 H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\obj\Debug\CoordConverterWinApp.MainForm.resources
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\bin\Debug\CoordConverterBLL.dll
+H:\GIS4207_ArcCustom\day09\lab\ChrisWandNowellaH\src\LayeredAppDemo\CoordConverterWinApp\bin\Debug\CoordConverterBLL.pdb
